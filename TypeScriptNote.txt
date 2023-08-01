@@ -1,0 +1,3 @@
+Type:
+Number, String, Boolean, Null, Undefined, void, Object, Array, Tuples, Any, Never, unknown  
+if we are using any then we are making our code as javascript
